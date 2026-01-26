@@ -1,0 +1,16 @@
+Como já vimos, programação é prática! Criamos mais uma lista de atividades (não obrigatórias) para você exercitar e reforçar ainda mais seu aprendizado e o conteúdo da vez são docstrings. Bora praticar?
+
+
+Exercícios
+Crie uma docstring para a função exibir_nome_do_programa()
+Crie uma docstring para a função exibir_opcoes()
+Crie uma docstring para a função finalizar_app()
+Crie uma docstring para a função opcao_invalida()
+Crie uma docstring para a função exibir_subtitulo(texto)
+Crie uma docstring para a função cadastrar_novo_restaurante()
+Crie uma docstring para a função listar_restaurantes()
+Crie uma docstring para a função alternar_estado_restaurante()
+Crie uma docstring para a função escolher_opcao()
+Crie uma docstring para a função main()
+
+Link: https://cursos.alura.com.br/course/python-crie-sua-primeira-aplicacao/task/146598

@@ -1,0 +1,1 @@
+Baseado no projeto do restaurante, fazer o sistema para uma biblioteca, cadastro, lista e emprestimo de livros
