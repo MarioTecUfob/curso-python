@@ -1,0 +1,44 @@
+O Git é uma ferramenta de controle de versão. Imagine que ele é uma "máquina do tempo" para o seu código. Ele roda localmente no seu computador e permite que você salve versões do seu projeto conforme ele evolui.
+
+Onde fica: No seu computador (local).
+Função: Registrar alterações, criar ramificações (branches) para testar novas ideias e reverter erros.
+Interface: Geralmente utilizado via linha de comando (Terminal).
+
+O GitHub é uma plataforma de hospedagem na nuvem que utiliza o Git. Ele funciona como uma "rede social" para programadores, onde você pode guardar seus projetos (repositórios) online e colaborar com outras pessoas.
+
+Onde fica: Na internet (remoto).
+Função: Armazenar seus códigos de forma segura, permitir colaboração em equipe, revisão de código e gerenciamento de projetos.
+Interface: Interface gráfica amigável acessada pelo navegador.
+
+Dica Pro: Você não precisa do GitHub para usar o Git, mas o GitHub torna o uso do Git muito mais poderoso para o trabalho em equipe e para construir seu portfólio profissional!
+
+
+----------------------x---------------------------------x-----------------------------x-------------------------------
+                                                    Comandos 
+----------------------x---------------------------------x-----------------------------x-------------------------------
+
+git clone (ling do repositórios faz um clone)
+Exemplo: git clone https://github.com/rodrigoalura87/numero-secreto.git
+
+----------------------x---------------------------------x-----------------------------x-------------------------------
+
+git log => Mostra o histórico de commit
+Exemplo: PS C:\mariotec\Carreira_Alura Desenvolvimento Back-End Python\Módulo 01_Pensamento_Computacional> git log git log
+commit 2d4cdfd88dc6ba7d9e0e762dfc656e7bdd01cafc (HEAD -> main, origin/main)
+Author: MarioTecUfob <mariotecnovaes587@gmail.com>
+Date:   Mon Jan 26 08:55:54 2026 -0300
+----------------------x---------------------------------x-----------------------------x-------------------------------
+git status => Mostra na tela as informações das alterações que foram realizadas, midificados e qual deve ser adiciondo
+Exemplo: PS C:\mariotec\Carreira_Alura Desenvolvimento Back-End Python\Módulo 01_Pensamento_Computacional> git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        Git e Github/
+        numero-secreto/
+
+nothing added to commit but untracked files present (use "git add" to track)
+----------------------x---------------------------------x-----------------------------x-------------------------------
+Exemplo: PS C:\mariotec\Carreira_Alura Desenvolvimento Back-End Python\Módulo 01_Pensamento_Computacional> git add .
+git add . => adiciona todos os arquivos para commit
