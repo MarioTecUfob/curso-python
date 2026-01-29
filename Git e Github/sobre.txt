@@ -107,4 +107,5 @@ To https://github.com/MarioTecUfob/curso-python.git
    2d4cdfd..d2aaca3  main -> main
 ----------------------x---------------------------------x-----------------------------x-------------------------------
 
- Exemplo: PS C:\mariotec\Carreira_Alura Desenvolvimento Back-End Python\Módulo 01_Pensamento_Computacional> git remote
+ Exemplo: PS C:\mariotec\Carreira_Alura Desenvolvimento Back-End Python\Módulo 01_Pensamento_Computacional> git pull origin main
+ Traz repositório remoto para a maquina, faz a sicronização 
